@@ -1,0 +1,9 @@
+//Como funciona uma porta digital?
+
+//A função de uma porta digital é, basicamente, traduzir uma tensão elétrica em um sinal digital. 
+//O sinal digital possui somente dois estados possíveis:, alto (HIGH, 1) ou baixo (LOW, 0).
+
+
+//Pull-down (puxar para baixo - LOW)
+//Pull-up (puxar para cima - HIGH)
+
